@@ -79,6 +79,7 @@ Redis      ████████░░░░  65%
 
 ```text
 Docker     ████████░░░░  65%
+Redis      ████████░░░░  65%
 Git        ██████████░░  80%
 AWS        ███████░░░░░  60%
 Linux      ████████░░░░  65%
@@ -167,7 +168,7 @@ Full-stack interview platform with real-time communication and coding capabiliti
 
 ### 🔔 Notification System
 
-Notification platform designed for administrative broadcasts and mobile users.
+Scalable notification platform designed for administrative broadcasts and mobile users.
 
 **Tech:** Node.js, TypeScript, PostgreSQL, Redis, Prisma, Flutter, Appwrite
 
@@ -214,9 +215,9 @@ Network packet analysis project focused on understanding network traffic.
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=umangutsavben&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=umangutsavben&theme=github_dark" height="180" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangutsavben&layout=compact&langs_count=6&theme=dark&hide_border=true" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umangutsavben&theme=github_dark" height="180" />
 
 </div>
 
@@ -284,7 +285,7 @@ focus:
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/umangutsavben/umangutsavben/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
