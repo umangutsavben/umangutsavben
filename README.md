@@ -280,7 +280,10 @@ goal:
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+  <img
+    src="https://raw.githubusercontent.com/umangutsavben/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
 
   <br/><br/>
 
