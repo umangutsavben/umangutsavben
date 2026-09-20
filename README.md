@@ -17,11 +17,11 @@
   <img src="https://img.shields.io/badge/GitHub-FFD700?style=flat-square&logo=github&logoColor=000" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/umang-kumar-3089b4191/">
   <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=flat-square&logo=linkedin&logoColor=000" />
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:umangutsavben@gmail.com">
   <img src="https://img.shields.io/badge/Email-FFD700?style=flat-square&logo=gmail&logoColor=000" />
 </a>
 
@@ -79,7 +79,6 @@ Redis      ████████░░░░  65%
 
 ```text
 Docker     ████████░░░░  65%
-Redis      ████████░░░░  65%
 Git        ██████████░░  80%
 AWS        ███████░░░░░  60%
 Linux      ████████░░░░  65%
@@ -265,7 +264,7 @@ goal:
     <img src="https://img.shields.io/badge/Codeforces-000?style=for-the-badge&logo=codeforces&logoColor=FFD700" />
   </a>
   &nbsp;
-  <a href="https://www.codechef.com/">
+  <a href="https://www.codechef.com/contests">
     <img src="https://img.shields.io/badge/CodeChef-000?style=for-the-badge&logo=codechef&logoColor=FFD700" />
   </a>
 
