@@ -211,15 +211,19 @@ Network packet analysis project focused on understanding network traffic.
 ### `$ git log --stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umangutsavben&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=FFD700&text_color=ffffff&icon_color=FFD700&border_color=FFD700&hide_border=false" height="160" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umangutsavben&layout=compact&langs_count=6&bg_color=000000&title_color=FFD700&text_color=ffffff&border_color=FFD700" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umangutsavben&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="180" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangutsavben&layout=compact&langs_count=6&theme=dark&hide_border=true" height="180" />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umangutsavben&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=ffffff&border=FFD700" height="160" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umangutsavben&theme=dark&hide_border=true" height="180" />
+
 </div>
 
 ---
